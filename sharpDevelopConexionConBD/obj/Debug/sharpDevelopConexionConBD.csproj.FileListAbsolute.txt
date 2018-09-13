@@ -1,0 +1,6 @@
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.exe.config
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\bin\Debug\sharpDevelopConexionConBD.pdb
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\sharpDevelopConexionConBD\sharpDevelopConexionConBD\obj\Debug\sharpDevelopConexionConBD.pdb
